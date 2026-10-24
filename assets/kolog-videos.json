@@ -1,0 +1,17 @@
+{
+  "arbusto": {
+    "frase_s": 8.833,
+    "yajaja_s": 3.567,
+    "pista_s": 10.667
+  },
+  "roca": {
+    "frase_s": 9.9,
+    "yajaja_s": 4.633,
+    "pista_s": 11.733
+  },
+  "cofre": {
+    "frase_s": 7.367,
+    "yajaja_s": 3.233,
+    "pista_s": null
+  }
+}
